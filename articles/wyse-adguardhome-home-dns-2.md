@@ -3,7 +3,7 @@ title: "自宅ネットワークを安全に使う（後編）：家の端末を
 emoji: "🛡️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["adguardhome", "dns", "ubuntu", "homelab", "自宅サーバ"]
-published: false
+published: true
 ---
 
 [前編](https://zenn.dev/yowahada/articles/wyse-adguardhome-home-dns)では、余っていた小型PC（Dell Wyse 3040）にAdGuardHomeを入れ、家の中のDNSサーバとして動かしました。広告やトラッカーのドメインを聞かれると、どこにもつながらない住所を返して止める仕組みです。
